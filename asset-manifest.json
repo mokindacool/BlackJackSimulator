@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blackjack-card-counting-trainer/static/css/main.10252c66.css",
+    "main.js": "/blackjack-card-counting-trainer/static/js/main.c3079ff7.js",
+    "index.html": "/blackjack-card-counting-trainer/index.html",
+    "main.10252c66.css.map": "/blackjack-card-counting-trainer/static/css/main.10252c66.css.map",
+    "main.c3079ff7.js.map": "/blackjack-card-counting-trainer/static/js/main.c3079ff7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10252c66.css",
+    "static/js/main.c3079ff7.js"
+  ]
+}
