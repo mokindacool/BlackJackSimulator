@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/BlackJackSimulator/static/css/main.10252c66.css",
-    "main.js": "/BlackJackSimulator/static/js/main.c3079ff7.js",
-    "index.html": "/BlackJackSimulator/index.html",
-    "main.10252c66.css.map": "/BlackJackSimulator/static/css/main.10252c66.css.map",
-    "main.c3079ff7.js.map": "/BlackJackSimulator/static/js/main.c3079ff7.js.map"
+    "main.css": "/static/css/main.10252c66.css",
+    "main.js": "/static/js/main.c3079ff7.js",
+    "index.html": "/index.html",
+    "main.10252c66.css.map": "/static/css/main.10252c66.css.map",
+    "main.c3079ff7.js.map": "/static/js/main.c3079ff7.js.map"
   },
   "entrypoints": [
     "static/css/main.10252c66.css",
